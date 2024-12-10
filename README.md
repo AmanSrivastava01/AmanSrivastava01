@@ -18,7 +18,7 @@ Machine Learning 🤖: Interested in working on AI-based projects that solve rea
 Open Source Projects 💻: Contributing to impactful open-source projects that help the tech community grow.
 Hackathons & Competitions 🏆: Always excited to participate in hackathons and data-driven challenges.
 📫 How to reach me:
-Email: amansrivastava01@example.com 📧
+Email: amansri004@gmail.com 📧
 LinkedIn: Aman Srivastava LinkedIn 🔗
 Twitter: @Aman_Srivastava 🐦
 GitHub: AmanSrivastava01 🔥
